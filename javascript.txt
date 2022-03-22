@@ -1,0 +1,9 @@
+Para votar passo a passo:
+
+1- Pessoas menores de 16 anos não votam.
+
+2-Pessoas entre 16 anos e 17 anos votam opcionalmente.
+
+3-Pessoas maiores de 18 anos tem o voto obrigatório.
+
+4-Pessoas com mais de 70 anos tem o voto também opcional.
